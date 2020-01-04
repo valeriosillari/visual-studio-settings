@@ -4,9 +4,9 @@ My Personal Visual studio settings
 
 ## How to use
 
-If you use Visual Code as editor, add the folder **.vscode** and its file into the root of your repo.
+If you use Visual Code as editor, add the folder `.vscode` and its file into the root of your repo.
 
-The file **settings.json** will overwrite the Visual Code Editor Options, so here you can set your custom options.
+The file `settings.json` will overwrite the Visual Code Editor Options, so here you can set your custom options.
 
 ## Info about this file and y options
 
