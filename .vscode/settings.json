@@ -4,12 +4,5 @@
   },
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": false,
-  "editor.formatOnSave": true,
-  "todohighlight.keywords": [
-    {
-      "text": "TODO:",
-      "color": "white",
-      "backgroundColor": "#de5233"
-    }
-  ]
+  "editor.formatOnSave": true
 }
