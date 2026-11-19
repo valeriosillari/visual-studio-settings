@@ -5,5 +5,6 @@
   "workbench.editor.highlightModifiedTabs": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnPaste": false,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "chat.fontSize": 16
 }
